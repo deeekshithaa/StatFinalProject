@@ -1,0 +1,40 @@
+---
+title: "About Our Team"
+---
+
+# Heart Disease Detection Team
+
+## Project Title: Unveiling Cardiovascular Insights through Data Analysis
+
+## Team Members
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![Team Member 1](C:/Users/deeks/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/6855456E2FE46A9D49D3D3AF4F57443D/WhatsApp Image 2024-12-10 at 22.31.45_ac6f9dbe.jpg)
+
+**Hi, I’m Deekshitha Reddy Kalluru!** 
+I’m currently pursuing a master’s in Data Analytics Engineering at George Mason University. With a background in Computer Science, I’m focused on extracting insights from data and building solutions to drive decisions.
+Linkedin: https://www.linkedin.com/in/deekshithakalluru/
+:::
+
+::: {.column width="30%"}
+![Team Member 2](C:/Users/deeks/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/2F2B265625D76A6704B08093C652FD79/WhatsApp Image 2024-12-10 at 22.25.39_22db2fa9.jpg)
+
+**This is Rushika Arvapalli** 
+
+:::
+
+::: {.column width="30%"}
+![Team Member 3](https://source.unsplash.com/random/300x300?portrait,3)
+
+**Sainath Kammiti**  
+:::
+
+::::
+
+## Our Mission
+
+Our team is committed to leveraging data science and machine learning techniques to improve heart disease detection and prevention. By analyzing a comprehensive dataset of cardiovascular health factors, we aim to uncover valuable insights that can contribute to better patient care and outcomes.
+
+[Next: Project Introduction](introduction.qmd){.btn .btn-primary .btn-lg}
