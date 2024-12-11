@@ -1,0 +1,84 @@
+## Dataset Description
+
+The information dataset analyzed in this project offers risks of heart disease factors and patients’ patterns. It is in numerical and categorical forms, such that it is well suited for statistical as well as machine learning analysis.
+
+### Key Features:
+
+-   **Age** *(Numerical)*: Patient age, ranging from 28 to 77.
+-   **Cholesterol** *(Numerical)*: Cholesterol levels (mg/dL).
+-   **Maximum Heart Rate** *(Numerical)*: Highest heart rate achieved during exercise.
+-   **Chest Pain Type** *(Categorical)*:
+    -   0: Typical Angina
+    -   1: Atypical Angina
+    -   2: Non-Anginal Pain
+    -   3: Asymptomatic
+-   **Resting Blood Pressure** *(Numerical)*: Systolic blood pressure (mm Hg).
+-   **Heart Disease** *(Binary)*: Target variable (0: No Heart Disease, 1: Heart Disease Present).
+
+### Data Overview:
+
+-   **Rows (Records):** 1179
+-   **Columns (Features):** 12
+
+### Data Cleaning:
+
+-   Handled missing values using mean/mode imputation.
+-   Removed duplicate records.
+-   Standardized numerical columns and encoded categorical variables.
+
+This dataset forms the basis for exploring relationships and patterns to predict heart disease risk effectively.
+
+### Basic Visualizations
+
+```{r}
+# Load necessary libraries
+library(ggplot2)      # For data visualization
+library(rpart)        # For decision trees (optional, not used directly here)
+library(rpart.plot)   # For plotting decision trees (optional, not used directly here)
+library(caret)        # For model evaluation (e.g., confusion matrix, accuracy)
+library(readxl)       # For reading Excel files
+library(e1071)         # For SVM and other machine learning models (optional, not used directly here)
+```
+
+```{r}
+# Load the dataset from an Excel file
+data <- read_excel("data.xlsx")
+
+# View the cleaned dataset to ensure it's in the correct format
+head(data)
+```
+
+
+
+```{r}
+colnames(data)
+```
+
+
+
+```{r}
+#Age Distribution
+ggplot(data, aes(x = age)) +
+  geom_histogram(binwidth = 5, fill = "skyblue", color = "black") +
+  labs(title = "Age Distribution", x = "Age", y = "Count") +
+  theme_minimal()
+
+```
+
+
+```{r}
+#max heart rate distribution
+ggplot(data, aes(x = max_heartrate)) +
+  geom_histogram(binwidth = 5, fill = "lightcoral", color = "black") +
+  labs(title = "Maximum Heart Rate Distribution", x = "Maximum Heart Rate", y = "Count") +
+  theme_minimal()
+
+```
+
+
+
+
+
+
+
+

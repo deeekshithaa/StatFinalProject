@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Team Member 1\n\n\nHi, I’m Deekshitha Reddy Kalluru! I’m currently pursuing a master’s in Data Analytics Engineering at George Mason University. With a background in Computer Science, I’m focused on extracting insights from data and building solutions to drive decisions. Linkedin: https://www.linkedin.com/in/deekshithakalluru/\n\n\n\n\nTeam Member 2\n\n\nThis is Rushika Arvapalli\n\n\n\n\nTeam Member 3\n\n\nSainath Kammiti\n\n\n\n\n\nOur team is committed to leveraging data science and machine learning techniques to improve heart disease detection and prevention. By analyzing a comprehensive dataset of cardiovascular health factors, we aim to uncover valuable insights that can contribute to better patient care and outcomes.\nNext: Project Introduction"
+  },
+  {
+    "objectID": "about.html#team-members",
+    "href": "about.html#team-members",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Team Member 1\n\n\nHi, I’m Deekshitha Reddy Kalluru! I’m currently pursuing a master’s in Data Analytics Engineering at George Mason University. With a background in Computer Science, I’m focused on extracting insights from data and building solutions to drive decisions. Linkedin: https://www.linkedin.com/in/deekshithakalluru/\n\n\n\n\nTeam Member 2\n\n\nThis is Rushika Arvapalli\n\n\n\n\nTeam Member 3\n\n\nSainath Kammiti"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Our Team",
+    "section": "",
+    "text": "Our team is committed to leveraging data science and machine learning techniques to improve heart disease detection and prevention. By analyzing a comprehensive dataset of cardiovascular health factors, we aim to uncover valuable insights that can contribute to better patient care and outcomes.\nNext: Project Introduction"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Heart Disease Detection Project",
+    "section": "",
+    "text": "Our team is dedicated to analyzing heart disease data to uncover insights and develop predictive models. Explore our findings through the following sections:\n\nAbout Our Team\nProject Introduction\nResearch Questions\nConclusions"
+  },
+  {
+    "objectID": "index.html#project-overview",
+    "href": "index.html#project-overview",
+    "title": "Heart Disease Detection Project",
+    "section": "",
+    "text": "Our team is dedicated to analyzing heart disease data to uncover insights and develop predictive models. Explore our findings through the following sections:\n\nAbout Our Team\nProject Introduction\nResearch Questions\nConclusions"
+  }
+]

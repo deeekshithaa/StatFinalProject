@@ -1,0 +1,33 @@
+---
+title: "Conclusion of Heart Disease Detection Analysis"
+format: html
+---
+
+The Heart Disease Prediction App is a machine learning based application that gives a tool for predicting the probability of heart disease to reduce the chances and risk from heart diseases. If heart disease is of concern, this app will use a trained Random Forest model to predict whether the patient is at risk of developing it, and alert the user to consider seeing a health professional.
+
+## Key Findings:
+**Predictive Accuracy:** A Random Forest model was used to create the app, as it has been successful at making a good prediction about whether someone is likely to have heart disease or not. As with every model, the model uses some key features like age, cholesterol and maximum heart rate to make its predictions.
+
+**Factors Affecting Predictions:** It uses information like chest pain type, resting blood pressure, cholesterol, exercise induced angina, and others to estimate your risk of having heart disease. These variables are informative variables that tell about the current status of this individual’s health.
+
+**User Interaction:** Through a user friendly interface the app allows users to input their health metrics. Once the values have been entered the app tells the user whether they are at risk of heart disease. The outputs are shown immediately for easy interpretation.
+
+## Real-World Applications:
+**Healthcare Professionals:** This app can be used as an adjunct to healthcare professionals who want to assess a patients risk of heart disease based on clinical metrics that are known.
+
+**Public Health:** The app stresses the importance of early detection and monitoring of risk factors for cardiovascular and plays an important role to the existing efforts in preventive healthcare.
+
+**Individual Use:** This app can be used by individuals to determine their heart disease risk, and then, should they believe their risk is high enough, they can speak with a healthcare provider about further evaluation and lifestyle changes.
+
+## Limitations:
+The app itself is to make predictions depending on the input data, and it is not meant to replace being a professional piece of medical advice. To ensure that the app gives the right output the users should validate it with healthcare professionals.
+Predictions made with a model trained on a data of varying quality and range, may not always be that accurate. Tuning of the model and incorporating more complete sets of datasets may increase the app’s predictions.
+
+## Future Enhancements:
+**Model Improvement:** Improving the accuracy of the app could be done by adding smoking history, family medical history, and physical activity level.
+
+**Real-time Monitoring:** In the future, versions could interface with wearable health devices to predict real time, and monitor continuously.
+
+**User Customization:** It allows users to add additional health metrics or change the risk score parameters that corresponds better to their own self health profile.
+
+To conclude, users and health professionals can rely on this Heart Disease Prediction App for an adequately quick, data driven prediction of heart disease risk. As it is strengthened by future improvements and ongoing data input, it could become an even more useful tool to prevent cardiovascular disease.

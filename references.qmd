@@ -1,0 +1,11 @@
+## References
+
+** [1] “OpenML.” https://www.openml.org/search?type=data&status=active&id=43682 **
+
+** [2] T. R. Dawber, G. F. Meadors, and F. E. Moore, “Epidemiological Approaches to Heart Disease: The Framingham Study,” American Journal of Public Health and the Nations Health, vol. 41, no. 3, pp. 279–286, Mar. 1951, doi: 10.2105/ajph.41.3.279. **
+
+** [3] A. Siddiqui, “Heart Disease Prediction by using Random Forest Classifier,” Journal of Applied Science and Education (JASE), vol. 3, no. 2, pp. 1–9, Jan. 2023, doi: https://doi.org/10.54060/jase.v3i2.29. **
+
+** [4] S. B. Hani and M. Ahmad, “Effective Prediction of Mortality by Heart Disease Among Women in Jordan Using the Chi-Squared Automatic Interaction Detection Model: Retrospective Validation Study,” JMIR Cardio, vol. 7, no. 1, p. e48795, Jul. 2023, doi: https://doi.org/10.2196/48795. **
+
+** [5] A. G, B. Ganesh, A. Ganesh, C. Srinivas, Dhanraj, and K. Mensinkal, “Logistic regression technique for prediction of cardiovascular disease,” Global Transitions Proceedings, vol. 3, no. 1, pp. 127–130, Jun. 2022, doi: https://doi.org/10.1016/j.gltp.2022.04.008. **

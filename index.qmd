@@ -1,0 +1,50 @@
+---
+title: "Heart Disease Prediction Analysis "
+format: html
+---
+
+## Meet Our Team - Team 10
+
+### **Deekshitha Reddy Kalluru**
+
+![](images/my_image.jpg){width="226"}
+
+I’m currently pursuing a master’s in Data Analytics Engineering at George Mason University. With a background in Computer Science, I’m focused on extracting insights from data and building solutions to drive decisions.
+
+**LinkedIn**: [Deekshitha Reddy Kalluru](https://www.linkedin.com/in/deekshithakalluru/)
+
+------------------------------------------------------------------------
+
+### **Rushika Arvapalli**
+
+![](images/rushika_image.jpg){width="234"}
+
+I am a Master's student pursuing Data Analytics at George Mason University. I have a strong interest in the intersection of business and data, particularly in using data insights to shape business models and strategies.
+
+**LinkedIn**: [Rushika Arvapalli](https://www.linkedin.com/in/rushika-arvapalli-456308213/)
+
+------------------------------------------------------------------------
+
+### **Sainath Kammiti**
+
+![](images/sainath_image.jpg){width="235"}
+
+Passionate about data and technology, I am pursuing my master's in Data Analytics at George Mason University, where I focus on building impactful solutions using data-driven insights.
+
+**LinkedIn:** [Sainath Kammiti](http://linkedin.com/in/sainath-kammiti-504470237)
+
+# About This Project
+
+## Heart Disease Prediction
+
+![](images/image-01.webp)
+
+### **Why is Heart Disease Prediction Important?**
+
+Heart disease is one of the leading causes of death globally, impacting millions of lives every year. Prompt diagnosis and accurate prediction of cardiovascular conditions can help in the early treatment of heart diseases, saving lives, improving quality of life, and reducing healthcare costs. Advances in data science, machine learning, and statistics allow us to uncover patterns in medical data and predict heart disease risk effectively.
+
+### **Purpose of the Project**
+
+This project aims to identify the critical factors that increase the likelihood of heart disease and estimate the risks using statistical and machine learning techniques. Our goal is to answer key research questions and provide recommendations for healthcare professionals and policymakers.
+
+------------------------------------------------------------------------
